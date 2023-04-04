@@ -6,6 +6,7 @@ const mainRoutes = require("./routes/mainRoutes");
 const tradeRoutes = require("./routes/tradeRoutes");
 // const mainRoutes = require("./routes/mainRoutes");
 // const tradeRoutes = require("./routes/tradeRoutes");
+import 'reflect-metadata';
 
 //create app
 

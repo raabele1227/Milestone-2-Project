@@ -10,16 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/NadiaNajjar-CCI/trade_project-raabele1227.git"
   },
-  "author": "",
+  "author": "Rachel Abele",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NadiaNajjar-CCI/trade_project-raabele1227/issues"
   },
   "homepage": "https://github.com/NadiaNajjar-CCI/trade_project-raabele1227#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
     "method-override": "^3.0.0",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "reflect-metadata": "^0.1.13",
+    "routing-controllers": "^0.10.2"
+  },
+  "devDependencies": {}
 }
